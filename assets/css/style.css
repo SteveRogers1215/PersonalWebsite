@@ -955,10 +955,16 @@ section {
 /*NEED TO FIND A WAY TO ORGANIZE THESE PICTURES IN ROWS!!!*/
 
 .row .col-sm-4 .img-fluid {
-  float: left;
+  float: center;
   width: 50%;
   padding: 35px;
   align-items: center;
+}
+.img {
+  display: block;
+}
+.img-fluid.classmate{
+  justify-content: right;
 }
 
 
