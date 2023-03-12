@@ -951,14 +951,13 @@ section {
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
 }
-/*ADD ON 3/9/2023*/
-/*NEED TO FIND A WAY TO ORGANIZE THESE PICTURES IN ROWS!!!*/
+/****CLASSMATE PHOTOS GRID****/
 
 .row .col-sm-4 .img-fluid {
   float: center;
   width: 50%;
   padding: 35px;
-  align-items: center;
+  align-items: center;  
 }
 .img {
   display: block;
