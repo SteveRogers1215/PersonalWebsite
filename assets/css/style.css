@@ -968,7 +968,8 @@ section {
 }
 div.col-sm-4.align-content-end{
   align-self: auto;
-  margin-left: 420px;
+  margin-left: 220px;
+  padding-bottom: 200px;
 }
 div.col-sm-4.align-content-center{
   align-self: auto;
