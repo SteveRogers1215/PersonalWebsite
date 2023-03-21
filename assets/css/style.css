@@ -962,9 +962,12 @@ section {
 .img {
   display: block;
 }
-.img-fluid.classmate{
+img.img-fluid.classmate{
   justify-content: right;
   align-self: auto;
+  border-radius: 50px;
+  max-width: 50%;
+  max-height: 85%;
   
 }
 div.col-sm-4.align-content-end{
@@ -984,6 +987,7 @@ div.col-lg-4.col-md-6.portfolio-item.filter-card{
 div.col-lg-4.col-md-6.portfolio-item.filter-web{
   align-self: auto;
 }
+
 
 
 
