@@ -1333,11 +1333,15 @@ div.col-lg-4.col-md-6.portfolio-item.filter-web{
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   background: #e9e8e6;
   padding: 30px 0;
   color: #222222;
   font-size: 14px;
   text-align: center;
+  
 }
 
 #footer .credits {
@@ -1348,3 +1352,5 @@ div.col-lg-4.col-md-6.portfolio-item.filter-web{
 #footer .credits a {
   color: teal;
 }
+
+
